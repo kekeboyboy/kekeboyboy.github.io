@@ -16,7 +16,7 @@ author:
   #medium:           your-id
   #tumblr:           your-id
   #email:
-  rss:              feed
+  rss:              
 
 # Google-analytics
 google-analytics:
@@ -57,7 +57,7 @@ nav:
   #- name:           "TIL"
     #url:
   #- name:           "Github"
-    #url:            
+    #url:
 
 
 
