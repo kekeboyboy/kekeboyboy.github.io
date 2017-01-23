@@ -3,32 +3,32 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Keke Arif"
+name:               "test test"
 
 
 
 author:
-  name:             Keke Arif
+  name:             test test
   #facebook:         your-id
-  twitter:          keke_arif
-  github:           kekearif
+  #twitter:
+  #github:
   #linkedin:         your-id
   #medium:           your-id
   #tumblr:           your-id
-  email:            kekearif@googlemail.com
+  #email:
   rss:              feed
 
 # Google-analytics
 google-analytics:
-  id:               "UA-89675183-1" # Can't anyone just copy this?
+  #id:               "UA-89675183-1" # Can't anyone just copy this?
 
 # Disqus
 disqus:
-  id:               "kekearif"
+  #id:
 
 #URL
-#url:               "http://www.kekearif.com"
-#url:               "localhost:4000"
+#url:
+#url:
 baseurl:            ""
 
 
@@ -55,9 +55,9 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   #- name:           "TIL"
-    #url:            "https://github.com/kekearif/TIL"
+    #url:
   #- name:           "Github"
-    #url:            "https://github.com/kekearif"
+    #url:            
 
 
 
